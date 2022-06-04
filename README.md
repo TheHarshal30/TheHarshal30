@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal Rudra</h1>
-<h3 align="center">Currently doing CP, Machine learning. Quantum Computing enthusiast</h3>
+<h3 align="center">Quantum Computing enthusiast</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Quantum Computing**
 
