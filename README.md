@@ -2,9 +2,9 @@
 <h3 align="center">Quantum Computing enthusiast</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning and Quantum Computing**
+- 🌱 I’m learning **Machine Learning and Quantum Computing**
 - 📫 How to reach me **harshal.rudra307@gmail.com**
-- 
+- ⚡ Currently Overthinking
 <p> <img src="https://github.com/HarshalRudra30/HarshalRudra30/blob/main/coding.gif" alt="gif" align="right"> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
